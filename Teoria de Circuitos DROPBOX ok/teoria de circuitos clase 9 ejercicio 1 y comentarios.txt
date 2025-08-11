@@ -1,0 +1,20 @@
+Por el momento , hasta ahora, tengo dudas en por que se usa el termino eficaz 
+y su relacion con la proporcion con la raiz de 2, en un sentido experimental.
+
+Sugerencia y comentarios de la cursada (trataré  de ser un poco formal y breve): se me dificulta mucho leer los pdfs en pantalla( yo no cuento con recursos economicos para imprimir 
+y donde vivo no hay donde imprimir, puedo creer que a mas de un compañero mio le pasa lo mismo con los problemas que acarrea la pandemia), 
+pero no de lectura literalmente es la dificultad (aunque es cansador), mas bien , 
+por que por ejemplo tuve que tener en vista al monitor y leer por lo menos 4 pdfs en pantalla
+ (la unidad 2, clase 9, tarea clase 9 y un ejemplo resuelto, mas bien veo mas ejemplos en pantalla en simultaneo para entender)
+yo tengo la ventaja en matematica y eso ayuda (mi hermano no por ejemplo y se le dificulta demasiado, a veces le tengo que sugerir
+ videos en youtube, yo no puedo mucho por tema de tiempo), con matematica me refiero a temas 
+como por ejemplo transformada de fourier(usaba funciones, aca las trato como señales etc), laplace (con uso y resolucion d ecuaciones diferenciales), 
+funciones analiticas (en el que uso numeros complejos para integrar y derivar)
+con todo esto solo digo que  tengo experiencia en el area matematica(en el que me abstraigo de un contexto de algun problema del mundo real), no en fisica ni  en teoria de circuitos,
+y eso es una ayuda que me sirve para seguir con la cursada virtual 
+pero me gusta esta materia y la carrera , y quiero aprender y que mis compañeros (y mi hermano) tambien aprendan, 
+francamente no digo exactamente que se aprueba esta cursada los autodidactas, sino con perseverancia y quizas mas cosas que desconosco , pero
+pero sinceramente se que muchos (y no hablo por todos por que no se como estan el resto de mis compañeros) esperan un video de la clase o
+por lo menos que usted sugiera una clase virtual de video dictada en alguna otra universidad o instituto (en el que se da tambien teoria de circuitos)
+por que no creo que hay un mejor especialista en el campo que usted, yo contaria con agrado algún material didactico audiovisual (sugerido por usted) adecuado 
+por que usted sabe mas de  la materia y por ser nuestro honorable profesor.
